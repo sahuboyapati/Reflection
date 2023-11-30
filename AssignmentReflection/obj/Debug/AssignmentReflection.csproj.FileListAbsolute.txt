@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day19\AssignmentReflection\AssignmentReflection\bin\Debug\AssignmentReflection.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day19\AssignmentReflection\AssignmentReflection\bin\Debug\AssignmentReflection.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day19\AssignmentReflection\AssignmentReflection\bin\Debug\AssignmentReflection.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day19\AssignmentReflection\AssignmentReflection\obj\Debug\AssignmentReflection.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day19\AssignmentReflection\AssignmentReflection\obj\Debug\AssignmentReflection.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day19\AssignmentReflection\AssignmentReflection\obj\Debug\AssignmentReflection.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day19\AssignmentReflection\AssignmentReflection\obj\Debug\AssignmentReflection.pdb
